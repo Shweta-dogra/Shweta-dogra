@@ -1,4 +1,5 @@
-### Hi there 👋 I am Shweta
+# Hi there 👋 I am Shweta
+⚡Enthusiastic web developer with a passion to learn and create.
 <!--
 **Shweta-dogra/Shweta-dogra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+## 💫 About Me:
 🌱 I’m currently learning MERN Stack<br>📫 How to reach me: shweta6933@gmail.com<br><br>
 
 
