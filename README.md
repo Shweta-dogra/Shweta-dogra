@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>📫 How to reach me: shweta6933@gmail.com<br><br>
+🌱 I’m currently learning MERN Stack<br>📫 How to reach me: [portfolio](https://shweta-portfolio-eight.vercel.app/)<br><br>
 
 
 ## 🌐 Socials:
